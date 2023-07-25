@@ -1,0 +1,23 @@
+highway_to_hell-acdc;highway_to_hell-ac_dc
+zizn-kabat;zizen-kabat
+kabat zizen;zizen-kabat
+kabat-zizen;zizen-kabat
+kabat_zizen;zizen-kabat
+žízeň kabát;zizen-kabat
+kabát žízeň;zizen-kabat
+premier_hrobar;hrobar-premier
+premier-hrobar;hrobar-premier
+plakala_divokej-bill;plakala-divokej_bill
+mirai-ldyznemuzes-tak_prijed;kdyz_nemuzes_tak_pridej-mirai
+adel-rolling_in_the_deep;rolling_in_the_deep-adele
+roling_in_the_deep-adele;rolling_in_the_deep-adele
+castle_on-the-hill_ed-sheeran;castle_on_the_hill-ed_sheeran
+pride_(in_the_name_of_love)-u2;pride_in_the_name_of_love-u2
+slovensky_klin-shitnaski;slovensky_klin-chinaski
+slovenski klin-shitnaski;slovensky_klin-chinaski
+walk_the_moon-shut_up_and_dance;shut_up_and_dance-walk_the_moon
+walk-the-moon_shut-up-and-dance;shut_up_and_dance-walk_the_moon
+walk-the-moon_shut_up-and-dance;shut_up_and_dance-walk_the_moon
+walkthemoonshutupanddance;shut_up_and_dance-walk_the_moon
+walk-the-moon-shut_up-and-dance;shut_up_and_dance-walk_the_moon
+walk moon shut up and dance;shut_up_and_dance-walk_the_moon
